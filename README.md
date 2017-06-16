@@ -1,7 +1,7 @@
 # Overview
 AWS Lambda / Node.js api that searches a DynamoDB database of health facilities based on Brazilian government data. The api accesses the database created by [health-dynamo-db](https://github.com/rafaelrpinto/health-dynamo-db).
 
-This project was built using Node 6.10.
+This project was built using [serverless framework](https://github.com/serverless/serverless) and Node.js 6.10.
 
 A similar API that uses Redis instead of DynamoDB can be found [here](https://github.com/rafaelrpinto/health-api).
 
