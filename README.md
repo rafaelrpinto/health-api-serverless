@@ -1,5 +1,5 @@
 # Overview
-https://github.com/rafaelrpinto/health-api-serverless. The api accesses the database created by [health-dynamo-db](https://github.com/rafaelrpinto/https://github.com/rafaelrpinto/health-dynamo-db).
+AWS Lambda / Node.js api that searches a DynamoDB database of health facilities based on Brazilian government data. The api accesses the database created by [health-dynamo-db](https://github.com/rafaelrpinto/https://github.com/rafaelrpinto/health-dynamo-db).
 
 This project was built using Node 6.10.
 
