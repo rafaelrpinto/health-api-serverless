@@ -1,9 +1,14 @@
 {
   "name": "aws-rest-with-dynamodb",
   "version": "1.0.0",
-  "description": "Serverless CRUD service exposing a REST HTTP interface",
-  "author": "",
+  "url": "https://github.com/rafaelrpinto/health-api-serverless",
+  "description": " Node.js api for AWS Lambda that searches a DynamoDB database of health facilities based on Brazilian government data.",
+  "author": "Rafale Pinto",
+  "email": "raprp@posteo.de",
   "license": "MIT",
+  "scripts": {
+    "deploy": "serverless deploy",
+  },
   "dependencies": {
     "dynamodb-geo": "^0.3.1",
     "uuid": "^2.0.3"
