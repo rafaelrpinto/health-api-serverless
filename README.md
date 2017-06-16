@@ -3,7 +3,7 @@ AWS Lambda / Node.js api that searches a DynamoDB database of health facilities 
 
 This project was built using Node 6.10.
 
-A similar API that uses Redis instead of DynamoDB can be found [here](https://github.com/rafaelrpinto/health-api);
+A similar API that uses Redis instead of DynamoDB can be found [here](https://github.com/rafaelrpinto/health-api).
 
 ## Routes
 
